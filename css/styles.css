@@ -35,10 +35,17 @@ h3 {
 }
 
 a {
-  color: #eaf6f6;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.9rem;
   text-decoration: none;
   margin: auto 20px auto 20px;
 }
+
+a:hover {
+  color: #EAF6f6;
+}
+
 
 hr {
   border-style: none;
@@ -106,6 +113,7 @@ p {
 }
 .chat {
   font-size: 0.85rem;
+
 }
 
 .copyright {
